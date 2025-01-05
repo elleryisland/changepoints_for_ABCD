@@ -2,7 +2,7 @@
 
 1: 01_find_changepoints.R
 
-This file shows how to apply PELT.LMEC to time series data with a grouping structure. Data loading steps are not included due for data privacy. 
+This file shows how to apply PELT.LMEC to time series data with a grouping structure. Data loading steps are not included for data privacy. 
 
 2: clean_cpt_data.R
 
